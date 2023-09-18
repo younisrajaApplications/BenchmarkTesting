@@ -2,7 +2,7 @@ package benchmark;
 
 import java.util.Date;
 
-public class DateTimeTesting {
+public class DateTimeBenchmark {
     public static void main(String[] args) {
         Date dateOne = new Date();
         operations();
